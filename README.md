@@ -6,13 +6,13 @@
 
 ---
 
-### Computer Science Student | Problem Solver | Tech Enthusiast
+###  Computer Science Student | Problem Solver | Tech Enthusiast
 
 </div>
 
 ---
 
-## About Me
+##  About Me
 
  **Second-year Computer Science student** at Swinburne University of Technology
 
@@ -27,7 +27,7 @@ I use GitHub to track my coursework and university projects, along with personal
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -67,11 +67,11 @@ I use GitHub to track my coursework and university projects, along with personal
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
-### Khubi's GitHub Stats
+###  Khubi's GitHub Stats
 
 | Metric | Value |
 |--------|-------|
@@ -81,7 +81,7 @@ I use GitHub to track my coursework and university projects, along with personal
 | 📮 Total Issues | **0** |
 | 🔥 Current Streak | **3 days** |
 
-### Contribution Activity
+###  Contribution Activity
 
 ```
 Total Contributions: 142
@@ -89,7 +89,7 @@ Period: Mar 2, 2025 - Present
 Longest Streak: 5 days (May 21, 2025 - May 25, 2025)
 ```
 
-### Most Used Languages
+###  Most Used Languages
 
 ![Dart](https://img.shields.io/badge/Dart-84.47%25-00BCD4?style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-3.88%25-1572B6?style=flat-square)
@@ -102,7 +102,7 @@ Longest Streak: 5 days (May 21, 2025 - May 25, 2025)
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -114,7 +114,7 @@ Check back soon for featured projects and case studies.
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -124,7 +124,7 @@ Your contributions help track your learning journey. Every commit is a step forw
 
 ---
 
-## 🌐 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
@@ -140,7 +140,7 @@ I'm always interested in collaborating on projects and discussing tech. Feel fre
 
 <div align="center">
 
-**Thanks for visiting! Happy coding! 🚀**
+**Thanks for visiting! Happy coding! **
 
 *Last updated: May 31, 2025*
 
