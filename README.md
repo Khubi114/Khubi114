@@ -3,16 +3,8 @@
   src="/https://github.com/Khubi114/Khubi114/blob/e0ecf422a429521b41a665dcbbac457cfdc3f00f/Banner.gif" 
   alt="Welcome animation" 
 />
-  
-```
-    _____ _   _ _     _____ 
-   / ____| | | | |   |_   _|
-  | |  __| | | | |     | |  
-  | | |_ | |_| | |     | |  
-  | |__| |\ _ /| |____ | |  
-   \_____| \_/_|______||_|  
-                            
-```
+
+---
 
 ### Computer Science Student | Problem Solver | Tech Enthusiast
 
