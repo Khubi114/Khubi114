@@ -1,6 +1,8 @@
-# <div align="center">Welcome to Khubi's Github</div>
-
 <div align="center">
+<img 
+  src="/Users/Khubi/Desktop/Khubi114/Banner.gif" 
+  alt="Welcome animation" 
+/>
   
 ```
     _____ _   _ _     _____ 
