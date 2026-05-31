@@ -8,22 +8,22 @@
 
 ### Computer Science Student | Problem Solver | Tech Enthusiast
 
-[**LinkedIn**](#) • [**Twitter**](#) • [**Portfolio**](#) • [**Contact**](#)
-
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-🎓 **Second-year Computer Science student** at Swinburne University of Technology
+ **Second-year Computer Science student** at Swinburne University of Technology
 
 I use GitHub to track my coursework and university projects, along with personal projects I work on to keep learning and experimenting outside of class.
 
-- 🎯 Currently learning and building my way through my CS degree
-- 🔧 Mix of uni assignments and personal experiments here
-- 💡 Feel free to reach out or check out my repos
-- 🚀 Always exploring new technologies and solving interesting problems
+-  Currently learning and building my way through my CS degree
+-  Mix of uni assignments and personal experiments here
+-  Feel free to reach out or check out my repos
+-  Always exploring new technologies and solving interesting problems
+
+</div>
 
 ---
 
