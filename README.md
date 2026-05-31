@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-  src="/Users/Khubi/Desktop/Khubi114/Banner.gif" 
+  src="/https://github.com/Khubi114/Khubi114/blob/e0ecf422a429521b41a665dcbbac457cfdc3f00f/Banner.gif" 
   alt="Welcome animation" 
 />
   

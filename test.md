@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-  src="/Users/Khubi/Desktop/Khubi114/Banner.gif" 
+  src="https://raw.githubusercontent.com/Joaninnn/Joaninnn/main/lcometoNurmuhammetsGithub1-ezgif.com-crop.gif" 
   alt="Welcome animation" 
 />
 
