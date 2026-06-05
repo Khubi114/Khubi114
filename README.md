@@ -118,7 +118,7 @@ Check back soon for featured projects and case studies.
 
 <div align="center">
 
-Your contributions help track your learning journey. Every commit is a step forward! 📚
+Your contributions help track your learning journey. Every commit is a step forward!
 
 </div>
 
